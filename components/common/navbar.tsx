@@ -48,7 +48,7 @@ const Navbar = () => {
                         </a>
                         <a
                             className="transition-colors hover:text-foreground/80 text-foreground"
-                            href="/docs/components"
+                            href="/components"
                         >
                             Components
                         </a>
