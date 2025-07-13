@@ -1,5 +1,5 @@
-import Navbar from '@/components/common/navbar'
-import React from 'react'
+import React from 'react';
+import Navbar from '@/components/common/navbar';
 
 const IndexPage = () => {
     return (
